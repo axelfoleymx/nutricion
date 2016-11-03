@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  food1: MyString
+  food2: MyString
+  food3: MyString
+  food4: MyString
+  food5: MyString
+  food6: MyString
+
+two:
+  food1: MyString
+  food2: MyString
+  food3: MyString
+  food4: MyString
+  food5: MyString
+  food6: MyString
