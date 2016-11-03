@@ -1,0 +1,168 @@
+ html{font-family:lato;
+ }
+ #cover{
+    background: url('http://www.hoswedaje.com/wp-content/uploads/2016/06/growth-hacking.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 2px;
+  }
+  .fondito{
+  	background-color: rgba(0, 0, 0, 0.45);
+  	margin-bottom:0px;
+  	color: white;
+  }
+
+.Flogo{
+margin-right:10%;
+position:absolute;
+z-index: 10;
+  top: 50px;
+  right: 50px;
+  width: 20px;
+  height: auto;
+}
+
+h1{
+	text-shadow: 2px 2px 1px #222;
+	color:white;
+	margin-top: 80px;
+}
+h2{
+	text-shadow: 2px 2px 1px #222;
+	color:white;
+	margin-top:30px;
+}
+.botonresev{
+	margin:100px auto;
+}
+.btn{
+	font-weight: 900;
+	width: 220px;
+	font-size: 20px;
+}
+/*Esta mejora del botón de Bootstrap fue realizada a través del Inspector de Firefox*/
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: rgba(176, 31, 38, 0.85);
+    border-color: #8e3a28;
+ }
+
+
+.logo1M{
+ height: 80px;}
+
+.section-why{
+
+ background-color:#253E7F;
+}
+.aburrido{
+	style="margin-bottom:40px;
+	 font-family:sans-serif;
+	 font-size:50px;
+	color:#EC5158;
+	 margin-top: 110px;
+}
+.poro{
+
+	color:#CFEC6F;
+	font-weight: bold;
+
+}
+h3.aprenderas{
+font-family:sans-serif;
+text-align:center
+}
+#propuestavalor{
+	text-align:center
+
+}
+h3.nombreh{
+	color:#325898;
+}
+.img-circle{
+	width: 200px;
+height: auto;
+}
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 200;
+}
+h1.hackera{font-size: 50px;
+color: #E13541;
+text-align:center;
+margin-top:30px;
+}
+#Queremos {
+	color:#cfec6f;
+}
+.llameya{
+	color:#E13541;
+}
+.filafoto{padding-top:40px;
+}
+.contenedorhacker{
+	padding-top:20px;
+}
+.convencete{
+	background-color: #0A2125;
+	margin-top: -50px;
+	text-align: center;
+}
+
+.aumentar{
+	color:#D2D2D2;
+}
+.titpat{text-align: center;
+	color: #1a1a1a;
+margin: 60px;
+font-size: 50px;
+}
+.empresa{
+	float: left;
+
+}
+.empresas{
+
+	margin-top: -50px;
+
+}
+.img-thumbnail{
+	height: 115px;
+}
+
+#asech{
+background: image-url('ASECH-Logo.png');
+background-size: 100% 100%}
+.microsoft{
+background: image-url('microsoft_logo.png');background-size: 100% 100%}
+.desafi{
+background: image-url('logoDF.png');background-size: 100% 100%;
+}
+.innochile{
+background: image-url('innovachilecorfo.jpg');background-size: 97% 112%}
+
+.mapita{
+	text-align:center;
+	background-color:#253E7F;;
+	margin-top: -50px;
+	color:white;
+}
+
+.mensajesub{
+	color:#E73743;
+}
+.preciobajo{
+	color:#C5EE54;
+	font-weight: bold;
+}
+.footer{position: fixed;
+width: 100%;
+bottom:0px;
+right: 35%;
+color:#5c5c5b;}
